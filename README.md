@@ -2,7 +2,7 @@
 
 ## Repo with slides and code sample for a talk for [BogotaJS](https://www.meetup.com/BogotaJS/?_locale=es-ES)
 
-Proxy objects came with EcmaScript 6 and they are a handy way to intercep the regular behavarior of an object, even changing methods that haven't even been created!
+Proxy objects came with EcmaScript 6 and they are a handy way to intercept the regular behavarior of an object, even changing methods that haven't even been created!
 
 This talk is provided thanks to the BogotaJS team, [WesBos](https://github.com/wesbos) incredible ES6 for Everyone course and this [DailyJS Article](https://medium.com/dailyjs/how-to-use-javascript-proxies-for-fun-and-profit-365579d4a9f8)
 
