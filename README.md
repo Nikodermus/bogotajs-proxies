@@ -6,6 +6,8 @@ Proxy objects came with EcmaScript 6 and they are a handy way to intercep the re
 
 This talk is provided thanks to the BogotaJS team, [WesBos](https://github.com/wesbos) incredible ES6 for Everyone course and this [DailyJS Article](https://medium.com/dailyjs/how-to-use-javascript-proxies-for-fun-and-profit-365579d4a9f8)
 
+Check out the [slides](http://slides.com/nikodermus/bogotajs-proxies/) for deeper follow through
+
 ## Content
 \# | Folder | Content
 --- | --- | ---
