@@ -18,4 +18,4 @@ const handler = {
 
 const proxy_person = new Proxy(person, handler);
 
-console.log(proxy_person.name);
+// console.log(proxy_person.name);

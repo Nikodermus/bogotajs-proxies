@@ -1,5 +1,3 @@
-/*eslint env-node*/
-
 const {
   METHODS,
 } = require('http');
